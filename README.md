@@ -1,2 +1,3 @@
 # Salary_Analysis_with_Tableau
-Analysis of salary of foreign workers of different subgroups of job categories working in the USA 
+The dashboard created with ableau shows how the salary of foreign workers varies across different subgroups of job categories, across different visa categories and cross different states.
+Please open the file with Tableau to see this analysis.
